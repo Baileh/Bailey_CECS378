@@ -14,4 +14,4 @@ def main():
         print(f"Error: {e}\nCheck if Ollama is running and the model is pulled.")
 
 if __name__ == "__main__":
-    main()
+    main() 
